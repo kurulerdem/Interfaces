@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{029E6CA0-82AB-4AA8-AC6C-45BC7A74EF94}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Interfaces/Employee.cs">
+    <Files>
+      <File FileName="Interfaces/Program.cs" Line="9" Column="32" />
+      <File FileName="Interfaces/Employee.cs" Line="44" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Interfaces" expanded="True">
+            <Node name="Interfaces" expanded="True">
+              <Node name="Employee.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Interfaces FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

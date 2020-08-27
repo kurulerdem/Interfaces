@@ -1,0 +1,12 @@
+/Users/Erdem/Projects/Interfaces/Interfaces/obj/Debug/netcoreapp3.1/Interfaces.csprojAssemblyReference.cache
+/Users/Erdem/Projects/Interfaces/Interfaces/obj/Debug/netcoreapp3.1/Interfaces.AssemblyInfoInputs.cache
+/Users/Erdem/Projects/Interfaces/Interfaces/obj/Debug/netcoreapp3.1/Interfaces.AssemblyInfo.cs
+/Users/Erdem/Projects/Interfaces/Interfaces/obj/Debug/netcoreapp3.1/Interfaces.csproj.CoreCompileInputs.cache
+/Users/Erdem/Projects/Interfaces/Interfaces/bin/Debug/netcoreapp3.1/Interfaces.deps.json
+/Users/Erdem/Projects/Interfaces/Interfaces/bin/Debug/netcoreapp3.1/Interfaces.runtimeconfig.json
+/Users/Erdem/Projects/Interfaces/Interfaces/bin/Debug/netcoreapp3.1/Interfaces.runtimeconfig.dev.json
+/Users/Erdem/Projects/Interfaces/Interfaces/bin/Debug/netcoreapp3.1/Interfaces.dll
+/Users/Erdem/Projects/Interfaces/Interfaces/bin/Debug/netcoreapp3.1/Interfaces.pdb
+/Users/Erdem/Projects/Interfaces/Interfaces/obj/Debug/netcoreapp3.1/Interfaces.dll
+/Users/Erdem/Projects/Interfaces/Interfaces/obj/Debug/netcoreapp3.1/Interfaces.pdb
+/Users/Erdem/Projects/Interfaces/Interfaces/obj/Debug/netcoreapp3.1/Interfaces.genruntimeconfig.cache
